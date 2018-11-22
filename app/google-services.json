@@ -1,0 +1,131 @@
+{
+  "project_info": {
+    "project_number": "188301936182",
+    "firebase_url": "https://campuscafe-851b3.firebaseio.com",
+    "project_id": "campuscafe-851b3",
+    "storage_bucket": "campuscafe-851b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188301936182:android:f18b1056cb80d865",
+        "android_client_info": {
+          "package_name": "campuscafe.yakutomi.nu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188301936182-ommg3unegesk9scr1b7nj4ct5dsf13n2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "campuscafe.yakutomi.nu",
+            "certificate_hash": "ac70610845f3493a5d2b1ba0c84be41ae9aaeacc"
+          }
+        },
+        {
+          "client_id": "188301936182-io462gctodskfrtjj9qvbc9d415or7jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMVixPxj7M03bt--vG59XtJhroT4DoAFM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188301936182-io462gctodskfrtjj9qvbc9d415or7jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188301936182:android:5b007e8f949d005d",
+        "android_client_info": {
+          "package_name": "nu.yakutomi.campuscafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188301936182-1muhfk12or7u4msklbli25fanki54lcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nu.yakutomi.campuscafe",
+            "certificate_hash": "100c7e4e99ae8a3e94a6da31f5f5a520b427624d"
+          }
+        },
+        {
+          "client_id": "188301936182-c85rp5goemhpreigji80r3itaeqfrqdq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nu.yakutomi.campuscafe",
+            "certificate_hash": "bfb5fa9e545bf7d8297b97d3dc6a59ceca295e9d"
+          }
+        },
+        {
+          "client_id": "188301936182-4qpmb0ckb8d60echj8p2f3i06ki68e3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nu.yakutomi.campuscafe",
+            "certificate_hash": "c23729527aeedfe6b0b7f06686ef866d365f3957"
+          }
+        },
+        {
+          "client_id": "188301936182-t2cdtuhjub8ggdm5v796m3l8ne3a77bv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nu.yakutomi.campuscafe",
+            "certificate_hash": "2d485f7b3f2f9b4b2d579328ca9019513e748222"
+          }
+        },
+        {
+          "client_id": "188301936182-kh4pcqf0kc89liuglpqjgjgh38d2ktdv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nu.yakutomi.campuscafe",
+            "certificate_hash": "909810b9e7800a47e01084416f31cc8745d0a521"
+          }
+        },
+        {
+          "client_id": "188301936182-io462gctodskfrtjj9qvbc9d415or7jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMVixPxj7M03bt--vG59XtJhroT4DoAFM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188301936182-io462gctodskfrtjj9qvbc9d415or7jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

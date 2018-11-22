@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:focusable="true" android:clickable="true"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:id="@+id/cardClickRelative"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="3dp"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
+        android:layout_height="75dp"
+        android:id="@+id/card_view_tag">
+
+            <Button
+                android:id="@+id/buttonTimestamp1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Sample Content"
+                android:textStyle="normal"
+                android:textAlignment="center"
+                android:paddingLeft="15dp"
+                android:background="#00ffffff"
+                android:gravity="center_vertical"
+                android:layout_gravity="left"
+                android:textSize="25sp"/>
+
+        </android.support.v7.widget.CardView>
+</RelativeLayout>
