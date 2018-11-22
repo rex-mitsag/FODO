@@ -1,0 +1,17 @@
+Number of files metrics,Mon, 12 Nov 2018 23:19:00 IST
+Module,FILES,Groovy,HTML,J,KT,XML
+"FODO-master",0,2,0,0,0,0
+"app",0,1,0,12,0,33
+
+FileType,FILES
+"Groovy",3
+"JSON",1
+"Java",12
+"ProGuard Rules",1
+"Properties",3
+"Text",6
+"XML",33
+
+Project,FILES,Groovy,HTML,J,KT,XML
+"project",59,3,0,12,0,33
+
